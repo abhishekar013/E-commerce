@@ -8,11 +8,11 @@ day 7 -Elevate Labs
 day 8 -Task 1 Submitted                                            Yes
 day 9 -Acaders reject 07/11/2026 
        Elevate Lab paid 100 rs
-day 10 - Task 2 tableau                                                          N
+day 10 - Task 2 tableau                                                          No
         Not Submitted Task 2
-day 11 -Task 3
+day 11 -Task 3                                                     Yes
         SQL_Analysis Submitted
   day 12 - Task 4 tableau
-        Not Submitted Task 2
-  day 13 - Task 5
+        Not Submitted Task 2                                                     No
+  day 13 - Task 5            
   day 14
